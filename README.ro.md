@@ -6,7 +6,7 @@ Acest proiect a fost creat cu ajutorul Parcel. Pentru familiarizare și configur
 
 1. Asigură-te că pe PC este instalată versiunea LTS Node.js.
    [Descarcă și instalează](https://nodejs.org/en/) dacă este necesar.
-2. Clonează acest depozit.
+2. Clonează acest repository.
 3. Schimbă numele folderului din `parcel-project-template` în numele proiectului tău.
 4. Creează un depozit nou și gol pe GitHub.
 5. Deschide proiectul în VSCode, pornește terminalul și conectează proiectul cu depozitul GitHub
