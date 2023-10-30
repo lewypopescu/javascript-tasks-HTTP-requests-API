@@ -13,7 +13,7 @@ Acest proiect a fost creat cu ajutorul Parcel. Pentru familiarizare și configur
    [conform instrucțiunilor](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories#changing-a-remote-repositorys-url).
 6. Setează dependențele proiectului în terminal cu ajutorul comenzii `npm install` .
 7. Pornește modul dezvoltator prin rularea comenzii `npm start`.
-8. Accesează  în browser pagina  [http://localhost:1234](http://localhost:1234).
+8. Accesează  în browser pagina [http://localhost:1234](http://localhost:1234).
    Această pagină se va reîncărca automat după salvarea modificărilor efectuate în fișiere proiectului.
 
 ## Fișiere și foldere
