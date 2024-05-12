@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.loader {
+  display: none;
+  margin-bottom: 20px;
+}
+
+.error {
+  color: #ff0000;
+  margin-bottom: 20px;
+}
+
+.cat-info {
+  display: none;
+}
+
+.cat-info img {
+  max-width: 50%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.cat-info p {
+  margin-bottom: 10px;
+}
