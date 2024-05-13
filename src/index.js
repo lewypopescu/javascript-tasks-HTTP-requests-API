@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         `;
 
         loader.style.display = 'none';
-        catInfo.style.display = 'block';
+        // catInfo.style.display = 'block';
         catInfo.style.display = 'flex';
         catInfo.style.gap = '25px';
         catInfo.style.marginTop = '25px';
