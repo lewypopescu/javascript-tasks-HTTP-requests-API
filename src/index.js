@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const catInfo = document.querySelector('.cat-info');
 
   loader.style.display = 'none';
+  error.style.display = 'none';
 
   try {
     const breeds = await fetchBreeds();
@@ -34,6 +35,9 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         loader.style.display = 'none';
         catInfo.style.display = 'block';
+        catInfo.style.display = 'flex';
+        catInfo.style.gap = '25px';
+        catInfo.style.marginTop = '25px';
       } catch (err) {
         error.style.display = 'block';
         loader.style.display = 'none';
